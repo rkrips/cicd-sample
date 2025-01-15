@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CicdSampleApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Hello");
+		System.out.println("My first Docker-Jenkins and GIthub integration project");
 		SpringApplication.run(CicdSampleApplication.class, args);
 	}
 
